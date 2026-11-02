@@ -4,7 +4,7 @@
 A Java-based study planner designed to help students manage their study time more effectively. It creates personalized study schedules based on upcoming exams, confidence levels in different topics, and available study hours.
 
 # Problem
-Students often struggle to prioritize what to study, spending too much time reviewing familiar topics while neglecting areas where they need more practice. StudySync aims to make studying more organized and efficient.
+Students often struggle to prioritize what to study, spending too much time reviewing familiar topics while neglecting areas where they need more practice. I aim to make studying more organized and efficient.
 
 # MVP Features 
 - Allow users to enter subjects, topics, and exam dates.
