@@ -1,4 +1,4 @@
-# Study-Planner-
+# Study-Planner
 
 # Project Overview
 A Java-based study planner designed to help students manage their study time more effectively. It creates personalized study schedules based on upcoming exams, confidence levels in different topics, and available study hours.
@@ -14,7 +14,7 @@ Students often struggle to prioritize what to study, spending too much time revi
 - Generate and display a personalized study schedule.
 - Save study information and schedules to CSV files.
 
-## Future Plans 
+# Future Plans 
 - Track completed study sessions and student progress.
 - Integrate Google Calendar to organize study sessions.
 - Explore AI-powered recommendations based on study performance.
@@ -39,8 +39,8 @@ Students often struggle to prioritize what to study, spending too much time revi
 8. Test and debug the application.
 9. Finalize documentation and the project.
 
-## Project Documentation
+# Project Documentation
 The `docs/` folder contains the Eisenhower Matrix and system flowchart used to plan StudySync.
 
-## Current Status
+# Current Status
 Planning and project setup. Development of the Java application will begin after the design phase.
