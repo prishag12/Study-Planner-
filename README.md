@@ -1,5 +1,4 @@
 # Study-Planner-
-# StudySync
 
 # Project Overview
 A Java-based study planner designed to help students manage their study time more effectively. It creates personalized study schedules based on upcoming exams, confidence levels in different topics, and available study hours.
